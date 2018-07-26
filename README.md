@@ -1,9 +1,7 @@
 # flutter_movie
 
-A new Flutter application.
+基于豆瓣开放 API 做的 Flutter Demo
 
-## Getting Started
+### 效果如下
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
 ![](https://user-gold-cdn.xitu.io/2018/7/26/164d5734a522be70?w=520&h=932&f=gif&s=2286225)
